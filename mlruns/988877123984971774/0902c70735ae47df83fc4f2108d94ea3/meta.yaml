@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/988877123984971774/0902c70735ae47df83fc4f2108d94ea3/artifacts
+end_time: 1747832458598
+entry_point_name: ''
+experiment_id: '988877123984971774'
+lifecycle_stage: active
+run_id: 0902c70735ae47df83fc4f2108d94ea3
+run_name: valuable-pig-662
+run_uuid: 0902c70735ae47df83fc4f2108d94ea3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747832458578
+status: 3
+tags: []
+user_id: bonami-ctp
